@@ -71,25 +71,4 @@ Interpretation of cloning fidelity and possible error sources
 - Sanger sequencing
 - Sequence alignment
 
-cel48-cloning-project/
-│
-├── data/
-│   ├── raw_gel_images/
-│   ├── sequencing_results/
-│   └── nanodrop_readings/
-│
-├── analysis/
-│   ├── sequence_alignment/
-│   └── mutation_notes.md
-│
-├── figures/
-│   └── workflow-diagram.png
-│
-├── doc/
-│   └── lab_report.pdf
-│
-└── README.md
-
 <img width="925" height="695" alt="image" src="https://github.com/user-attachments/assets/ceba34f8-22cc-4562-a08c-ae96a1235745" />
-
-MIT License
